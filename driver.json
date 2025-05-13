@@ -1,0 +1,402 @@
+[
+    {
+      "id": 1,
+      "driverName": "Ram Kumar",
+      "driverPhone": "9876543210",
+      "driverEmail": "ram@gmail.com",
+      "image": "https://plus.unsplash.com/premium_photo-1689568126014-06fea9d5d341?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "vehicleType": "Car",
+      "vehicleNumber": "KA-01-AB-1234",
+      "vehicleModel": "Toyota",
+      "licenseNumber": "KA-01-123456",
+      "destination": {
+        "place": "Mangal Bazar",
+        "latitude": 27.6726,
+        "longitude": 85.3258
+      }
+    },
+    {
+      "id": 2,
+      "driverName": "Shyam Thapa",
+      "driverPhone": "9841122334",
+      "driverEmail": "shyam@yahoo.com",
+      "image": "https://images.unsplash.com/photo-1581577863436-9ba6101f8853?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "vehicleType": "Motorcycle",
+      "vehicleNumber": "BA-02-CA-5678",
+      "vehicleModel": "Honda",
+      "licenseNumber": "BA-02-654321",
+      "destination": {
+        "place": "Patan Durbar Square",
+        "latitude": 27.6706,
+        "longitude": 85.3239
+      }
+    },
+    {
+      "id": 3,
+      "driverName": "Rita Devi",
+      "driverPhone": "9801234567",
+      "driverEmail": "rita@hotmail.com",
+      "image": "https://images.unsplash.com/photo-1615798988137-111163994619?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "vehicleType": "Scooter",
+      "vehicleNumber": "LAA-03-DA-9012",
+      "vehicleModel": "Vespa",
+      "licenseNumber": "LAA-03-210987",
+      "destination": {
+        "place": "Jawalakhel",
+        "latitude": 27.6657,
+        "longitude": 85.3188
+      }
+    },
+    {
+      "id": 4,
+      "driverName": "Hari Bahadur",
+      "driverPhone": "9869876543",
+      "driverEmail": "hari@outlook.com",
+      "image": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "vehicleType": "Van",
+      "vehicleNumber": "NA-04-EA-3456",
+      "vehicleModel": "Hyundai",
+      "licenseNumber": "NA-04-654123",
+      "destination": {
+        "place": "Lagankhel",
+        "latitude": 27.6683,
+        "longitude": 85.3281
+      }
+    },
+    {
+      "id": 5,
+      "driverName": "Sita Sharma",
+      "driverPhone": "9812345678",
+      "driverEmail": "sita@gmail.com",
+      "image": "https://images.unsplash.com/photo-1552058544-f2b08422138a?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "vehicleType": "Car",
+      "vehicleNumber": "BA-05-FA-7890",
+      "vehicleModel": "Suzuki",
+      "licenseNumber": "BA-05-098765",
+      "destination": {
+        "place": "Kumaripati",
+        "latitude": 27.6598,
+        "longitude": 85.3219
+      }
+    },
+    {
+      "id": 6,
+      "driverName": "Gopal Tamang",
+      "driverPhone": "9851122335",
+      "driverEmail": "gopal@yahoo.com",
+      "image": "https://images.unsplash.com/photo-1595152778065-6e6475cdaaae?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "vehicleType": "Motorcycle",
+      "vehicleNumber": "KA-06-GA-2345",
+      "vehicleModel": "Bajaj",
+      "licenseNumber": "KA-06-543210",
+      "destination": {
+        "place": "Pulchowk",
+        "latitude": 27.6801,
+        "longitude": 85.3203
+      }
+    },
+    {
+      "id": 7,
+      "driverName": "Laxmi Rai",
+      "driverPhone": "9802345679",
+      "driverEmail": "laxmi@hotmail.com",
+      "image": "https://images.unsplash.com/photo-1554151228-14d9def656e4?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "vehicleType": "Scooter",
+      "vehicleNumber": "BA-07-HA-6789",
+      "vehicleModel": "Hero",
+      "licenseNumber": "BA-07-109876",
+      "destination": {
+        "place": "Thasikhel",
+        "latitude": 27.6545,
+        "longitude": 85.3162
+      }
+    },
+    {
+      "id": 8,
+      "driverName": "Rajesh Yadav",
+      "driverPhone": "9868765432",
+      "driverEmail": "rajesh@outlook.com",
+      "image": "https://images.unsplash.com/photo-1544005279-aac07d981089?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "vehicleType": "Van",
+      "vehicleNumber": "NA-08-IA-0123",
+      "vehicleModel": "Kia",
+      "licenseNumber": "NA-08-678901",
+      "destination": {
+        "place": "Sanepa",
+        "latitude": 27.6852,
+        "longitude": 85.3135
+      }
+    },
+    {
+      "id": 9,
+      "driverName": "Binita Shah",
+      "driverPhone": "9811234569",
+      "driverEmail": "binita@gmail.com",
+      "image": "https://images.unsplash.com/photo-1599566150163-29194dcaad63?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "vehicleType": "Car",
+      "vehicleNumber": "BA-09-JA-4567",
+      "vehicleModel": "Nissan",
+      "licenseNumber": "BA-09-234567",
+      "destination": {
+        "place": "Jhamsikhel",
+        "latitude": 27.6905,
+        "longitude": 85.3098
+      }
+    },
+    {
+      "id": 10,
+      "driverName": "Suresh Khatri",
+      "driverPhone": "9850123456",
+      "driverEmail": "suresh@yahoo.com",
+      "image": "https://images.unsplash.com/photo-1580489944761-15a19d6549a2?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "vehicleType": "Motorcycle",
+      "vehicleNumber": "KA-10-KA-8901",
+      "vehicleModel": "TVS",
+      "licenseNumber": "KA-10-765432",
+      "destination": {
+        "place": "Ekantakuna",
+        "latitude": 27.6632,
+        "longitude": 85.3325
+      }
+    },
+    {
+      "id": 11,
+      "driverName": "Anjali Gurung",
+      "driverPhone": "9803456780",
+      "driverEmail": "anjali@hotmail.com",
+      "image": "https://images.unsplash.com/photo-1597223557154-721c1e77c6fb?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "vehicleType": "Scooter",
+      "vehicleNumber": "LAA-11-LA-3456",
+      "vehicleModel": "Yamaha",
+      "licenseNumber": "LAA-11-876543",
+      "destination": {
+        "place": "Balkumari",
+        "latitude": 27.6578,
+        "longitude": 85.3389
+      }
+    },
+    {
+      "id": 12,
+      "driverName": "Kishor Rana",
+      "driverPhone": "9867654321",
+      "driverEmail": "kishor@outlook.com",
+      "image": "https://images.unsplash.com/photo-1587405986873-6904792b0c89?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "vehicleType": "Van",
+      "vehicleNumber": "NA-12-MA-7890",
+      "vehicleModel": "Toyota",
+      "licenseNumber": "NA-12-345678",
+      "destination": {
+        "place": "Imadol",
+        "latitude": 27.6492,
+        "longitude": 85.3251
+      }
+    },
+    {
+      "id": 13,
+      "driverName": "Priya Joshi",
+      "driverPhone": "9810234560",
+      "driverEmail": "priya@gmail.com",
+      "image": "https://images.unsplash.com/photo-1591221761826-840e6246991c?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "vehicleType": "Car",
+      "vehicleNumber": "BA-13-NA-2345",
+      "vehicleModel": "Honda",
+      "licenseNumber": "BA-13-890123",
+      "destination": {
+        "place": "Kupondole",
+        "latitude": 27.6951,
+        "longitude": 85.3167
+      }
+    },
+    {
+      "id": 14,
+      "driverName": "Ramesh Shrestha",
+      "driverPhone": "9852345671",
+      "driverEmail": "ramesh@yahoo.com",
+      "image": "https://images.unsplash.com/photo-1559548343-63849485f174?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "vehicleType": "Motorcycle",
+      "vehicleNumber": "KA-14-PA-6789",
+      "vehicleModel": "Hero",
+      "licenseNumber": "KA-14-456789",
+      "destination": {
+        "place": "Gausala",
+        "latitude": 27.7159,
+        "longitude": 85.3412
+      }
+    },
+    {
+      "id": 15,
+      "driverName": "Sunita Thapa",
+      "driverPhone": "9804567892",
+      "driverEmail": "sunita@hotmail.com",
+      "image": "https://images.unsplash.com/photo-1600486913747-55e5470d6f40?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "vehicleType": "Scooter",
+      "vehicleNumber": "LAA-15-QA-0123",
+      "vehicleModel": "Bajaj",
+      "licenseNumber": "LAA-15-321098",
+        "destination": {
+            "place": "Bhaktapur",
+            "latitude": 27.6714,
+            "longitude": 85.4271
+        }
+    },
+    {
+        "id": 16,
+        "driverName": "Arjun Karki",
+        "driverPhone": "9866543210",
+        "driverEmail": "arjun@outlook.com",
+        "image": "https://images.unsplash.com/photo-1552058544-f2b08422138a?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "vehicleType": "Van",
+        "vehicleNumber": "NA-16-RA-4567",
+        "vehicleModel": "Suzuki",
+        "licenseNumber": "NA-16-987654",
+        "destination": {
+          "place": "Thamel",
+          "latitude": 27.7172,
+          "longitude": 85.3178
+        }
+      },
+      {
+        "id": 17,
+        "driverName": "Kabita Lama",
+        "driverPhone": "9813456781",
+        "driverEmail": "kabita@gmail.com",
+        "image": "https://images.unsplash.com/photo-1599566150163-29194dcaad63?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "vehicleType": "Car",
+        "vehicleNumber": "BA-17-SA-8901",
+        "vehicleModel": "Nissan",
+        "licenseNumber": "BA-17-012345",
+        "destination": {
+          "place": "Boudhanath",
+          "latitude": 27.7217,
+          "longitude": 85.3583
+        }
+      },
+      {
+        "id": 18,
+        "driverName": "Roshan Raut",
+        "driverPhone": "9853456782",
+        "driverEmail": "roshan@yahoo.com",
+        "image": "https://images.unsplash.com/photo-1580489944761-15a19d6549a2?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "vehicleType": "Motorcycle",
+        "vehicleNumber": "KA-18-TA-3456",
+        "vehicleModel": "Yamaha",
+        "licenseNumber": "KA-18-654321",
+        "destination": {
+          "place": "Swoyambhunath",
+          "latitude": 27.7147,
+          "longitude": 85.2932
+        }
+      },
+      {
+        "id": 19,
+        "driverName": "Deepa Yadav",
+        "driverPhone": "9805678903",
+        "driverEmail": "deepa@hotmail.com",
+        "image": "https://images.unsplash.com/photo-1597223557154-721c1e77c6fb?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "vehicleType": "Scooter",
+        "vehicleNumber": "LAA-19-UA-7890",
+        "vehicleModel": "Honda",
+        "licenseNumber": "LAA-19-210987",
+        "destination": {
+          "place": "Pashupatinath",
+          "latitude": 27.7175,
+          "longitude": 85.3452
+        }
+      },
+      {
+        "id": 20,
+        "driverName": "Sagar Thapa",
+        "driverPhone": "9865432104",
+        "driverEmail": "sagar@outlook.com",
+        "image": "https://images.unsplash.com/photo-1587405986873-6904792b0c89?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "vehicleType": "Van",
+        "vehicleNumber": "NA-20-VA-0123",
+        "vehicleModel": "Hyundai",
+        "licenseNumber": "NA-20-789012",
+        "destination": {
+          "place": "Bhaktapur Durbar Square",
+          "latitude": 27.6726,
+          "longitude": 85.4275
+        }
+      },
+      {
+        "id": 21,
+        "driverName": "Purnima Rai",
+        "driverPhone": "9814567895",
+        "driverEmail": "purnima@gmail.com",
+        "image": "https://images.unsplash.com/photo-1591221761826-840e6246991c?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "vehicleType": "Car",
+        "vehicleNumber": "BA-21-WA-4567",
+        "vehicleModel": "Toyota",
+        "licenseNumber": "BA-21-345678",
+        "destination": {
+          "place": "Nagarkot",
+          "latitude": 27.7187,
+          "longitude": 85.5137
+        }
+      },
+      {
+        "id": 22,
+        "driverName": "Bikash Tamang",
+        "driverPhone": "9854567896",
+        "driverEmail": "bikash@yahoo.com",
+        "image": "https://images.unsplash.com/photo-1559548343-63849485f174?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "vehicleType": "Motorcycle",
+        "vehicleNumber": "KA-22-XA-8901",
+        "vehicleModel": "Bajaj",
+        "licenseNumber": "KA-22-876543",
+        "destination": {
+          "place": "Dhulikhel",
+          "latitude": 27.6269,
+          "longitude": 85.5447
+        }
+      },
+      {
+        "id": 23,
+        "driverName": "Sarita Khatri",
+        "driverPhone": "9806789017",
+        "driverEmail": "sarita@hotmail.com",
+        "image": "https://images.unsplash.com/photo-1600486913747-55e5470d6f40?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "vehicleType": "Scooter",
+        "vehicleNumber": "LAA-23-YA-3456",
+        "vehicleModel": "Hero",
+        "licenseNumber": "LAA-23-456789",
+        "destination": {
+          "place": "Banepa",
+          "latitude": 27.6398,
+          "longitude": 85.5205
+        }
+      },
+      {
+        "id": 24,
+        "driverName": "Anil Shah",
+        "driverPhone": "9864321058",
+        "driverEmail": "anil@outlook.com",
+        "image": "https://images.unsplash.com/photo-1552058544-f2b08422138a?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "vehicleType": "Van",
+        "vehicleNumber": "NA-24-ZA-7890",
+        "vehicleModel": "Kia",
+        "licenseNumber": "NA-24-901234",
+        "destination": {
+          "place": "Panauti",
+          "latitude": 27.5764,
+          "longitude": 85.5355
+        }
+      },
+      {
+        "id": 25,
+        "driverName": "Sangita Gurung",
+        "driverPhone": "9815678909",
+        "driverEmail": "sangita@gmail.com",
+        "image": "https://images.unsplash.com/photo-1599566150163-29194dcaad63?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "vehicleType": "Car",
+        "vehicleNumber": "BA-25-ABA-2345",
+        "vehicleModel": "Suzuki",
+        "licenseNumber": "BA-25-567890",
+        "destination": {
+          "place": "Kirtipur",
+          "latitude": 27.6739,
+          "longitude": 85.2937
+        }
+      }
+]
