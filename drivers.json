@@ -149,7 +149,7 @@
       "destination": {
         "place": "Jhamsikhel",
         "latitude": 27.6905,
-        "longitude": 85.3098,
+        "longitude": 85.3098
       }
     },
     {
@@ -166,7 +166,7 @@
       "destination": {
         "place": "Ekantakuna",
         "latitude": 27.6632,
-        "longitude": 85.3325,
+        "longitude": 85.3325
       }
     },
     {
@@ -183,7 +183,7 @@
       "destination": {
         "place": "Balkumari",
         "latitude": 27.6578,
-        "longitude": 85.3389,
+        "longitude": 85.3389
       }
     },
     {
@@ -200,7 +200,7 @@
       "destination": {
         "place": "Imadol",
         "latitude": 27.6492,
-        "longitude": 85.3251,
+        "longitude": 85.3251
       }
     },
     {
@@ -218,7 +218,7 @@
         "place": "Kupondole",
         "latitude": 27.6951,
         "longitude": 85.3167
-      },
+      }
     },
     {
       "id": 14,
@@ -235,7 +235,7 @@
         "place": "Gausala",
         "latitude": 27.7159,
         "longitude": 85.3412
-      },
+      }
     },
     {
       "id": 15,
@@ -270,8 +270,7 @@
           "place": "Thamel",
           "latitude": 27.7172,
           "longitude": 85.3178
-        },
-          "status":true
+        }
       },
       {
         "id": 17,
